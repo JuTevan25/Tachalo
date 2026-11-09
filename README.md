@@ -1,7 +1,7 @@
-📋 Sistema de gestión de tareas - Consola C# Versión 2.0
+📋 Sistema de gestión de tareas - Tachalo 
 
 Programa que permite al usuario administrar su asignación de tareas de manera fácil, automática y estar al tanto de ellas, utilizando el método CRUD.
-Esta nueva versión permite mostrar una estructura en sus bloques de código más organizado, por pestañas y el funcionamiento es óptimo.
+Este sistema permite mostrar una estructura en sus bloques de código más organizado, por pestañas y el funcionamiento es óptimo.
 
 🚀 Características
 
@@ -9,10 +9,14 @@ Esta nueva versión permite mostrar una estructura en sus bloques de código má
 - ✅ Listar tareas con su fecha de creación
 - ✅ Completar y eliminar tareas por ID
 - ✅ Validación de las entradas del usuario
-- ✅ Guarda las tareas registradas en formato JSON (Para comprobarlo debe ejecutar el proyecto con el comando "dotnet run".)
+- ✅ Guarda las tareas registradas en formato JSON (Para comprobarlo debe ejecutar el proyecto en su terminal con el comando "dotnet run".)
 
 
-🛠️ Tecnologías Lenguaje: C# Plataforma: .NET (cualquier versión que soporte consola) Compilador: dotnet, Visual Studio o csc 📦 Requisitos previos .NET SDK (recomendado 6.0 o superior) Visual Studio Community O Visual Studio Code con extensión C#
+🛠️ Tecnologías Lenguaje: C# Plataforma: .NET (cualquier versión que soporte consola). 
+
+Compilador: dotnet, Visual Studio o csc.
+
+📦 Requisitos previos .NET SDK (recomendado 6.0 o superior) Visual Studio Community O Visual Studio Code con extensión C#.
 
 ⁉️ ¿Cómo encontrar la carpeta donde se aloja el código? En carpeta llamada "Lista_Tareas2.0" deslizas hacia abajo, encontrarás los diferentes archivos que forman este proyecto.
 
