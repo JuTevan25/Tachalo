@@ -18,7 +18,7 @@ Compilador: dotnet, Visual Studio o csc.
 
 📦 Requisitos previos .NET SDK (recomendado 6.0 o superior) Visual Studio Community O Visual Studio Code con extensión C#.
 
-⁉️ ¿Cómo encontrar la carpeta donde se aloja el código? En carpeta llamada "Lista_Tareas2.0" deslizas hacia abajo, encontrarás los diferentes archivos que forman este proyecto.
+⁉️ ¿Cómo encontrar la carpeta donde se aloja el código? Al ingresar al proyecto encontrarás las partes que lo componen.
 
 ▶️ Cómo ejecutar
 
@@ -26,11 +26,11 @@ Opción 1: Con Visual Studio (más sencillo) Crea un nuevo proyecto de Aplicaci�
 
 Opción 2: Con Visual Studio Code / terminal:
 
-" git clone https://github.com/JuTevan25/Lista_Tareas2.0.git
-cd Lista_Tareas2.0
+" git clone https://github.com/JuTevan25/Tachalo
+cd Tachalo
 dotnet run "
 
-Clona el repositorio (o descarga el archivo .cs): git clone https://github.com/JuTevan25/Lista_Tareas2.0.git Autor: Juan Esteban Venegas Torres
+Clona el repositorio (o descarga el archivo .cs): git clone https://github.com/JuTevan25/Tachalo.git Autor: Juan Esteban Venegas Torres
 
 Github: https://github.com/JuTevan25
 
