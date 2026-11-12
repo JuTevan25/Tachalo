@@ -16,7 +16,7 @@ Este sistema permite mostrar una estructura en sus bloques de código más organ
 
 Compilador: dotnet, Visual Studio o csc.
 
-📦 Requisitos previos .NET SDK (recomendado 6.0 o superior) Visual Studio Community O Visual Studio Code con extensión C#.
+📦 Requisitos previos .NET SDK (recomendado 10.0 o superior) Visual Studio Community O Visual Studio Code con extensión C#.
 
 ⁉️ ¿Cómo encontrar la carpeta donde se aloja el código? Al ingresar al proyecto encontrarás las partes que lo componen.
 
